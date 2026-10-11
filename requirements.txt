@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-qdrant
+qdrant-client
+google-genai
+python-dotenv
+pandas
+openpyxl
