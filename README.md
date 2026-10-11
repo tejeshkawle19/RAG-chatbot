@@ -1,5 +1,4 @@
-# 🏦 RAG Chatbot for Credit Card Information
-
+# 🏦 RAG Chatbot with Query Rewriting & Conversation Memory
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Framework-LlamaIndex-purple?style=for-the-badge" alt="LlamaIndex"/>
